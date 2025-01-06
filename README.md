@@ -1,7 +1,7 @@
 # 服务状态
-> 这个[README](https://github.com/lmq8267/server-status)每5小时由Github action生成一次.
+> 这个[README](https://github.com/david88558855/server-status)每5小时由Github action生成一次.
 ## 上次更新时间：
-2025年01月06日 06:13:44
+2025年01月06日 08:03:53
 ## 公共节点状态： 
 公共节点仅用于测试，对于生产，请设置您自己的节点.
 

@@ -1,9 +1,9 @@
 # 服务状态
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flmq8267%2Fserver-status&count_bg=%2395C10D&title_bg=%23555555&icon=github.svg&icon_color=%238DC409&title=%E8%AE%BF%E9%97%AE%E6%95%B0&edge_flat=false)](https://hits.seeyoufarm.com)![hello](https://views.whatilearened.today/views/github/lmq8267/server-status.svg)![](https://pgy.us.kg/?id=svg)![](http://s4.serv00.com:8828/?id=svg)<p><img src=http://ip.cnqq.cloudns.ch/ width=400 onerror="this.style.display='none';"></p>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdavid88558855%2Fserver-status&count_bg=%2395C10D&title_bg=%23555555&icon=github.svg&icon_color=%238DC409&title=%E8%AE%BF%E9%97%AE%E6%95%B0&edge_flat=false)](https://hits.seeyoufarm.com)![hello](https://views.whatilearened.today/views/github/david88558855/server-status.svg)![](https://pgy.us.kg/?id=svg)![](http://s4.serv00.com:8828/?id=svg)<p><img src=http://ip.cnqq.cloudns.ch/ width=400 onerror="this.style.display='none';"></p>
 
-> 这个[README](https://github.com/lmq8267/server-status)每5小时由Github action生成一次.
+> 这个[README](https://github.com/david88558855/server-status)每5小时由Github action生成一次.
 ## 上次更新时间：
-2025年04月06日 06:14:49
+2025年04月06日 08:01:01
 ## 公共节点状态： 
 公共节点仅用于测试，对于生产，请设置您自己的节点.
 
